@@ -1,0 +1,36 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 100%;
+}
+nobr{
+
+}
+ul{
+    white-space:nowrap;
+}
+li{
+    display: inline-block;
+    padding-inline: 15px;
+}
+h1{
+    white-space:nowrap;
+    padding: 50px;
+    text-align: center;
+}
+.hide_font{
+    opacity: 0;
+}
+.row{
+    align-content: center;
+}
+.text{
+    padding: 50px;
+}
+.mobile{
+    padding-left: 25px;
+}
