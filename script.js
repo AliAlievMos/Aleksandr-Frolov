@@ -19,7 +19,6 @@ refresh()
 
 
 
-
 function timedRefresh(timeoutPeriod) {
         return setTimeout("location.reload();", timeoutPeriod);
 }
