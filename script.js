@@ -15,8 +15,7 @@ function refresh(){
     }
 
 }
-
-window.onload = refresh()
+refresh()
 
 
 
